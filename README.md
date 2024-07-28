@@ -13,9 +13,7 @@ Mentor: Neela Santosh Kumar
 
 Overview of the Project
 
-Project: BMI TRACKER APP
- Develop an app that calculates Body Mass Index (BMI) based on user
- input for height and weight.
+Project: BMI TRACKER APP.
 
  ![2](https://github.com/user-attachments/assets/f56b2e2e-8f03-4f2d-b96f-1dc9db68ad86)
 
